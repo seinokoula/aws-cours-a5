@@ -1,0 +1,47 @@
+{
+  "alex": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awscoursa5-alex-8fdac-authRole",
+      "UnauthRoleArn": "arn:aws:iam::150734033780:role/amplify-awscoursa5-alex-8fdac-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::150734033780:role/amplify-awscoursa5-alex-8fdac-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-awscoursa5-alex-8fdac-deployment",
+      "UnauthRoleName": "amplify-awscoursa5-alex-8fdac-unauthRole",
+      "StackName": "amplify-awscoursa5-alex-8fdac",
+      "StackId": "arn:aws:cloudformation:eu-west-1:150734033780:stack/amplify-awscoursa5-alex-8fdac/42921370-411a-11f0-ab6b-02ba4676f349",
+      "AmplifyAppId": "d297rvto1ppcrl"
+    },
+    "categories": {
+      "storage": {
+        "users": {},
+        "cryptoPriceAlex": {},
+        "cryptoExportBucket": {}
+      },
+      "function": {
+        "saveUser": {
+          "deploymentBucketName": "amplify-awscoursa5-alex-8fdac-deployment",
+          "s3Key": "amplify-builds/saveUser-435942584b3331314d7a-build.zip"
+        },
+        "getUser": {
+          "deploymentBucketName": "amplify-awscoursa5-alex-8fdac-deployment",
+          "s3Key": "amplify-builds/getUser-4166555068637274377a-build.zip"
+        },
+        "testoo": {
+          "deploymentBucketName": "amplify-awscoursa5-alex-8fdac-deployment",
+          "s3Key": "amplify-builds/testoo-442f4354466c77697474-build.zip"
+        },
+        "signeData": {
+          "deploymentBucketName": "amplify-awscoursa5-alex-8fdac-deployment",
+          "s3Key": "amplify-builds/signeData-427030454d51656f446e-build.zip"
+        }
+      },
+      "auth": {
+        "awscoursa5dd29150c": {}
+      },
+      "api": {
+        "users": {},
+        "cryptoAlex": {}
+      }
+    }
+  }
+}

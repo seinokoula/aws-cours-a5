@@ -1,0 +1,13 @@
+{
+  "resourceName": "cryptoExportBucket",
+  "policyUUID": "52af32ad",
+  "bucketName": "awscoursa56611b4ddc1304dddaecf86e82a8a9146",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
